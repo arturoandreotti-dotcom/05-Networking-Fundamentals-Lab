@@ -1,0 +1,15 @@
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*~
+
+# PowerShell transcripts
+PowerShell_transcript.*.txt
