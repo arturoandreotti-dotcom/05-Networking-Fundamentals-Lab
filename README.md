@@ -123,8 +123,8 @@ See the [Lab 08 documentation](labs/08-network-troubleshooting/README.md) for th
 │
 └── labs/
     ├── 01-first-lan/
-    ├── 02-network-troubleshooting/
-    ├── 03-ipv4-subnetting-routing/
+    ├── 02-arp-icmp-analysis/
+    ├── 03-ipv4-subnetting/
     ├── 04-static-routing/
     ├── 05-ospf-dynamic-routing/
     ├── 06-dhcp-dns-services/
